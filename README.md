@@ -14,7 +14,7 @@ Fazemos parte do universo digital, focada em criar e desenvolver experiências i
 ## Desafio
 
 - Faça o download do arquivo (desafio-frontend.zip);
-- Implemente o HTML/CSS do layout contido no arquivo desafio-frontend.zip.
+- Implemente o HTML/CSS com base no layout contido no arquivo desafio-frontend.zip.
 
 ## Regras
 
